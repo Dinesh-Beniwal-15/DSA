@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
