@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0048-rotate-image](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -70,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0048-rotate-image/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
