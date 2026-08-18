@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -48,18 +49,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
