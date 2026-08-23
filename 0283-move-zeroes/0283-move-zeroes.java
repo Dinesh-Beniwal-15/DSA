@@ -16,10 +16,6 @@ class Solution {
                 nums[insertpos] = 0;
                 insertpos++;
             }
-        }
-        
-        
-        
-        
+        } 
     }
 }
