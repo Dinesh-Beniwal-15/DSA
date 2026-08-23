@@ -13,6 +13,8 @@ class Solution {
         }
 
         return i + 1; // total unique elements
+
+        
     }
 }
 
