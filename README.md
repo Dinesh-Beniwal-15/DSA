@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
