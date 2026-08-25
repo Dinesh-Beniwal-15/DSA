@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0048-rotate-image/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0268-missing-number/) | Easy |
