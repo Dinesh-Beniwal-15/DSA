@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
