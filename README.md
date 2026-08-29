@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dinesh-Beniwal-15/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
